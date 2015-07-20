@@ -1,0 +1,138 @@
+.super-header {
+	padding-top: 0.5em;
+	background-color: black;
+	/*background-image: url(http://www.aaprp-intl.org/drupal/sites/all/themes/skeletontheme/images/supporters-PAIGC.jpg);
+	background-repeat: repeat-x;
+	background-position: center top;
+	*/
+}
+
+#site-name {
+	font-size: 33px;
+	font-weight: lighter;
+	text-align: center;
+	letter-spacing: .5px;
+	float: left;
+	position: absolute;
+	margin-left: 175px;
+	top: -57px;
+	text-shadow:1px 1px #333333;
+}
+#logo img {
+    border: 0px none;
+    float: left;
+	margin-top: -20px;
+    margin-bottom: 20px;
+}
+.nivo-controlNav {
+    display: none;
+}
+#block-locale-language h2 {
+  display: none;
+}
+a.language-link.active {
+  text-decoration: none;
+}
+ul.language-switcher-locale-url li {
+  float: left;
+  margin: 0em 1em;
+}
+
+#top-bar {
+  background-color: #e52f11;
+}
+
+ul.language-switcher-locale-url {list-style-type: none;}
+
+#language-selection {
+	margin-top: 10px;
+  float: left;
+}
+
+#search-bar {
+	margin-top: 5px;
+  float: right;
+}
+
+#wrap {
+  border-top: none;
+}
+
+.field-item.even img {
+	float: left;
+	margin-right: 20px;
+}
+#block-system-navigation {
+	background-color:#ffcc33;
+}
+#block-system-navigation h2 {
+	padding-top: 10px;
+	padding-left: 10px;
+}
+ul.menu li a {
+	padding: 8px 0px 12px 24px;
+	background-attachment: scroll;
+	background-color: transparent;
+	background-image: url(../../skeletontheme/images/light/black-star.png);
+	background-repeat: no-repeat;
+	background-position: 10px center;
+}
+.content ul.menu li a {
+	border-bottom: 1px solid #000;
+}
+.region-highlighted {
+    padding: 10px 0px 0px 0px;
+    border-top: solid 1px #000;
+    border-bottom: solid 1px #000;
+	margin-bottom: 20px;
+}
+#sidebar #block-block-2 {
+	margin-top: 30px;
+	background-color: #000;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-bottom: 30px;
+}
+#block-block-2 h4 {
+	color: #FC3;
+	font-size: 1.2em;
+	font-weight: lighter;
+	line-height: 1em;
+	margin-bottom: 0px !important;
+}
+
+#block-block-2 h2 {
+	padding-top: 10px;
+	color: #FC3;
+	font-weight: lighter;
+}
+
+#block-block-2 h3 {
+	color: #F00;
+}
+
+#block-block-2 p {
+	color: #FC3;
+}
+
+#featured {
+	background-color: #000;
+}
+
+#featured .one_half {
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#featured .one_half h2 {
+	color: #FC0;
+}
+#featured .one_half li {
+	text-decoration: none;
+}
+div.vertical-tabs {
+    float: left;
+}
+.form-item, .form-actions {
+    clear: both;
+}

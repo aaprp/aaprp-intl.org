@@ -1,0 +1,434 @@
+#header .header-inner {
+    height: 160px;
+    background: #000000;
+	padding-bottom: 10px;
+}
+#menu-bar {
+    clear: both;
+    min-height: 32px;
+    line-height: 32px;
+    padding: 0px;
+    z-index: 100;
+    position: relative;
+    margin-top: 80px;
+    background: #DC143C;
+}
+/* to change the color of the menu text to gold
+#menu-bar ul li a {
+    color: #ffcc33;
+}
+*/
+#site-name {
+	margin-top: 30px;
+	text-align: center;
+    font-size: 2.5em;
+    padding: 13px 0px 0px;
+    overflow: hidden;
+    line-height: 1.3em;
+}
+
+#site-name a {
+    color: #FFCC00;
+}
+
+#site-slogan {
+	text-align: center;
+	color: #3C0;
+}
+
+#branding {
+    width: 100%;
+}
+.block-title {
+  -webkit-box-shadow:  0px 3px 5px 0px #666;   
+   box-shadow:  0px 3px 5px 0px #666;
+   background: #ff0000; /* Old browsers */
+
+	background: -moz-linear-gradient(top,  #ff0000 0%, #cc3300 100%); /* FF3.6+ */
+	
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff0000), color-stop(100%,#cc3300)); /* Chrome,Safari4+ */
+	
+	background: -webkit-linear-gradient(top,  #ff0000 0%,#cc3300 100%); /* Chrome10+,Safari5.1+ */
+	
+	background: -o-linear-gradient(top,  #ff0000 0%,#cc3300 100%); /* Opera 11.10+ */
+	
+	background: -ms-linear-gradient(top,  #ff0000 0%,#cc3300 100%); /* IE10+ */
+	
+	background: linear-gradient(to bottom,  #ff0000 0%,#cc3300 100%); /* W3C */
+	
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff0000', endColorstr='#cc3300',GradientType=0 ); /* IE6-9 */
+}
+ul.language-switcher-locale-url {list-style-type: none;}
+
+.nivo-controlNav {
+    display: none;
+}
+h1 {
+  font-size: 1.5em;
+}
+h2 {
+  font-size: 1.375em;
+}
+h3 {
+  font-size: 1.25em !important;
+  color: #000;
+}
+h4, h5, h6 {
+  font-size: 1.125em;
+}
+/* Significant Dates Block */
+.views-field-title {
+	color: #000000;
+	font-size: 1.2em;
+	line-height: 1.2em;
+}
+.views-field-field-historical-date {
+	color: #CC3333;
+	font-size: 1.1em;
+	line-height: 1em;
+	margin-top: 5px;
+	margin-bottom: 15px !important;
+}
+/*Revolutionary Poetry*/
+#article-71 p, #article-69 p {
+	margin-top: 0px;
+}
+.month-view {
+	font-size: .90em;
+}
+/*Upcoming Events*/
+#block-views-calendar-block-2 a {
+	font-size: .90em;
+	line-height: 1.1em;
+}
+
+/* Superfish Navigation Changes*/
+
+/* Controls the background color of each menu item*/
+#menu-bar {
+	background: #ff0000; /* Old browsers */
+	
+	background: -moz-linear-gradient(top,  #ff0000 0%, #cc3300 100%); /* FF3.6+ */
+	
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff0000), color-stop(100%,#cc3300)); /* Chrome,Safari4+ */
+	
+	background: -webkit-linear-gradient(top,  #ff0000 0%,#cc3300 100%); /* Chrome10+,Safari5.1+ */
+	
+	background: -o-linear-gradient(top,  #ff0000 0%,#cc3300 100%); /* Opera 11.10+ */
+	
+	background: -ms-linear-gradient(top,  #ff0000 0%,#cc3300 100%); /* IE10+ */
+	
+	background: linear-gradient(to bottom,  #ff0000 0%,#cc3300 100%); /* W3C */
+	
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff0000', endColorstr='#cc3300',GradientType=0 ); /* IE6-9 */
+
+}
+
+.sf-menu.sf-style-pomegranate li,
+.sf-menu.sf-style-pomegranate.sf-navbar {
+	background: #ff0000; /* Old browsers */
+	
+	background: -moz-linear-gradient(top,  #ff0000 0%, #cc3300 100%); /* FF3.6+ */
+	
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff0000), color-stop(100%,#cc3300)); /* Chrome,Safari4+ */
+	
+	background: -webkit-linear-gradient(top,  #ff0000 0%,#cc3300 100%); /* Chrome10+,Safari5.1+ */
+	
+	background: -o-linear-gradient(top,  #ff0000 0%,#cc3300 100%); /* Opera 11.10+ */
+	
+	background: -ms-linear-gradient(top,  #ff0000 0%,#cc3300 100%); /* IE10+ */
+	
+	background: linear-gradient(to bottom,  #ff0000 0%,#cc3300 100%); /* W3C */
+	
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff0000', endColorstr='#cc3300',GradientType=0 ); /* IE6-9 */
+}
+
+.sf-menu.sf-style-pomegranate li:hover,
+.sf-menu.sf-style-pomegranate li.sfHover,
+.sf-menu.sf-style-pomegranate li.active a,
+.sf-menu.sf-style-pomegranate a:focus,
+.sf-menu.sf-style-pomegranate a:hover,
+.sf-menu.sf-style-pomegranate a:active,
+.sf-menu.sf-style-pomegranate.sf-navbar li li {
+	background-color: #CC0000;
+}
+
+/*Controls the border color*/
+.sf-menu.sf-style-pomegranate a {
+  border: 1px outset #ffcc33;
+}
+/* User menu items*/
+ul.primary li a {
+	background-color: #F00;
+	color: #FFF;
+}
+div.vertical-tabs {
+    float: left;
+	clear: left;
+}
+.form-item, .form-actions {
+    clear: both;
+}
+/* Adiministrative overlay */
+#overlay ol#crumbs {
+    margin-top: 80px;
+}
+#color_scheme_form.form-wrapper {
+	float: left;
+	clear: both;
+	margin-left: 200px;
+}
+#edit-theme-settings {
+	float: left;
+}
+/* content middle images */
+img.wrapright {
+    border: 1px solid rgb(233, 233, 233);
+	margin-right: 15px;
+	padding: 10px;
+}
+/* creates box around left floated images in content area */
+.article-content img {
+    border: 1px solid rgb(233, 233, 233);
+	margin-right: 15px;
+	padding: 10px;
+}
+.article-content h2 {
+	color: #060;
+}
+.four-4x25 {
+    background: #333;
+	background: -moz-linear-gradient(top,  #666666 0%, #333333 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#666666), color-stop(100%,#333333)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #666666 0%,#333333 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #666666 0%,#333333 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #666666 0%,#333333 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #666666 0%,#333333 100%); /* W3C */	
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#666666', endColorstr='#333333',GradientType=0 ); /* IE6-9 */
+}
+.four-4x25 h2 {
+   background: #000; /* Old browsers */
+   background: -moz-linear-gradient(top,  #333333 0%, #000000 100%); /* FF3.6+ */
+}
+/* make facebook node responsive. So far none of these work, 4/15/2013 */
+.block-content.content iframe {
+  width: 100% !important;
+}
+.mainWrapper {
+    width: 16em;
+}
+#facebook .userContent {
+	color: #ffffff;
+}
+#facebook a {
+	color: #0C0;
+}
+.pluginSkinLight {
+	background: #333;
+}
+/* YouTube Channel */
+#youtubechannel-player {
+    width: 21em;
+	height: 16em;
+}
+#youtubechannel-list {
+    overflow-y: hidden !important;
+}
+table.uiGrid a {
+	color: #0C0 !important;
+}
+.box_text {
+	color: #FFF;
+	background-color: #333;
+	padding: 10px;	
+}
+	
+/* remove submitted author-date-time from contact form */
+#article-42 .author-datetime {
+	display: none;
+}
+/* how to join pages */
+#join_support {
+	float: left;
+	height: 200px;
+	width: 100%;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+#join {
+	background-color: #390;
+	float: left;
+	height: 100%;
+	width: 45%;
+	margin-right: 5%;
+	-moz-border-radius-topleft: 10px;
+	-moz-border-radius-topright: 10px;
+	-moz-border-radius-bottomright: 0px;
+	-moz-border-radius-bottomleft: 10px;
+	-webkit-border-radius: 10px 10px 0px 10px;
+	border-radius: 10px 10px 0px 10px; 
+	
+	-webkit-box-shadow: 5px 5px 5px 5px #CCC;
+	-moz-box-shadow: 5px 5px 5px 5px #CCC;
+	box-shadow: 5px 5px 5px 5px #CCC; 
+}
+#join h2 {
+	color: #FC0;
+	text-align: center;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+#join ul li {
+	color: #FFF;
+	list-style-type: disc;
+	margin-bottom: 5px;
+	font-size: 0.95em;
+	margin-right: 10px;
+}
+#support {
+	background-color:#F00;
+	float: right;
+	height: 100%;
+	width: 45%;
+	margin-right: 5%;
+	-moz-border-radius-topleft: 10px;
+	-moz-border-radius-topright: 10px;
+	-moz-border-radius-bottomright: 10px;
+	-moz-border-radius-bottomleft: 0px;
+	-webkit-border-radius: 10px 10px 0px 10px;
+	border-radius: 10px 10px 10px 0px;
+	
+	-webkit-box-shadow: 5px 5px 5px 5px #CCC;
+	-moz-box-shadow: 5px 5px 5px 5px #CCC;
+	box-shadow: 5px 5px 5px 5px #CCC;
+}
+#support h2 {
+	color: #FC0;
+	text-align: center;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+#support ul li {
+	color: #FFF;
+	list-style-type: disc;
+	margin-bottom: 5px;
+	font-size: 0.95em;
+	margin-right: 10px;
+}
+/*Contact Form I tried to move the age field to the side but it does not float consistently in Firefox and Chrome.
+#webform-component-mailng-list, #webform-component-gender, #webform-component-age {
+	width: 50%;	
+}
+#webform-component-age {
+	position: absolute;
+	left: 50%;
+	top: 65%;
+}
+*/
+
+
+/* === Ancestor Pages ==================== */
+
+.page-type-ancestor-page .field-name-field-birth:after,
+.page-type-ancestor-page .field-name-field-transition:after,
+.page-type-ancestor-page .field-name-field-position:after {
+  clear: none;
+}
+
+.page-type-ancestor-page .article-ancestor-page .field-label-inline  .field-label {
+  float: left;
+}
+
+.page-type-ancestor-page .article-ancestor-page .field-label-inline .field-items {
+  float: none;
+}
+
+.page-type-ancestor-page #page-title:before {
+  content: 'Honoring Our Ancestor,';
+  padding-right: 0.5em;
+}
+
+.ancestor-well .field-name-field-image {
+  float: none;
+  margin: 0;
+  margin-bottom: 1em;
+}
+
+.ancestor-well .field-name-field-image figure {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.ancestor-well {
+  float: left;
+  width: 50%;
+  background-color: #f7f7f7;
+  padding: 0.5em;
+  margin: 0 1em 0.5em 0;
+  border: 1px solid #e7e7e7;
+}
+
+.view-ancestors-page blockquote {
+  display: none;
+}
+
+.view-ancestors-page td {
+  text-align: center;
+  width: 33%;
+}
+
+.view-ancestors-page .views-field-field-image {
+  height: 100px;
+  line-height: 100px;
+}
+
+.view-ancestors-page .views-field-field-image .field-content {
+  line-height: initial;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.view-ancestors-page .region-highlight {
+  margin-bottom: 1em;
+}
+
+
+/*Mobile Devices*/
+@media only screen and (max-width: 240px) {
+}
+
+@media only screen and (max-width: 320px) {
+  #logo {
+    text-align: center;
+    width: 100px;
+    height: 100px;
+  }
+  
+  #header .header-inner {
+    height: auto;
+  }
+  
+  #site-name {
+    margin-top: auto;
+  }
+  
+  .block-nivo-slider {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .sf-menu.sf-style-pomegranate {
+    float: none;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  #menu-bar {
+    margin-top: auto;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+}

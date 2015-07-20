@@ -1,0 +1,14 @@
+name = Hashcash
+description = Prevents SPAM from reaching the server by implementing hashcash
+core = 7.x
+files[] = hashcash.module
+files[] = hashcash.install
+files[] = hashcash.admin.inc
+scripts[] = js/hashcash.js
+package = Scratchpads
+; Information added by drupal.org packaging script on 2013-04-16
+version = "7.x-2.3"
+core = "7.x"
+project = "hashcash"
+datestamp = "1366135872"
+

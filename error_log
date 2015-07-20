@@ -1,0 +1,57 @@
+[25-Apr-2012 17:27:55] PHP Fatal error:  Call to undefined function  zen_theme() in /home1/aaprpint/public_html/drupal/sites/all/themes/cti_flex/template.php on line 68
+[25-Apr-2012 17:28:32] PHP Fatal error:  Call to undefined function  zen_theme() in /home1/aaprpint/public_html/drupal/sites/all/themes/cti_flex/template.php on line 68
+[25-Apr-2012 17:28:50] PHP Fatal error:  Call to undefined function  zen_theme() in /home1/aaprpint/public_html/drupal/sites/all/themes/cti_flex/template.php on line 68
+[25-Apr-2012 17:29:08] PHP Fatal error:  Call to undefined function  zen_theme() in /home1/aaprpint/public_html/drupal/sites/all/themes/cti_flex/template.php on line 68
+[11-Nov-2012 14:45:56] PHP Fatal error:  Call to a member function summary_title() on a non-object in /home1/aaprpint/public_html/drupal/sites/all/modules/views/plugins/views_plugin_display.inc on line 1192
+[11-Nov-2012 14:46:01] PHP Fatal error:  Call to a member function summary_title() on a non-object in /home1/aaprpint/public_html/drupal/sites/all/modules/views/plugins/views_plugin_display.inc on line 1192
+[11-Nov-2012 14:46:16] PHP Fatal error:  Call to a member function summary_title() on a non-object in /home1/aaprpint/public_html/drupal/sites/all/modules/views/plugins/views_plugin_display.inc on line 1192
+[11-Nov-2012 14:46:22] PHP Fatal error:  Call to a member function summary_title() on a non-object in /home1/aaprpint/public_html/drupal/sites/all/modules/views/plugins/views_plugin_display.inc on line 1192
+[11-Nov-2012 14:46:49] PHP Fatal error:  Call to a member function summary_title() on a non-object in /home1/aaprpint/public_html/drupal/sites/all/modules/views/plugins/views_plugin_display.inc on line 1192
+[11-Nov-2012 14:47:04] PHP Fatal error:  Call to a member function summary_title() on a non-object in /home1/aaprpint/public_html/drupal/sites/all/modules/views/plugins/views_plugin_display.inc on line 1192
+[11-Nov-2012 13:48:03] PHP Fatal error:  Call to a member function summary_title() on a non-object in /home1/aaprpint/public_html/drupal/sites/all/modules/views/plugins/views_plugin_display.inc on line 1192
+[11-Nov-2012 13:48:04] PHP Fatal error:  Call to a member function summary_title() on a non-object in /home1/aaprpint/public_html/drupal/sites/all/modules/views/plugins/views_plugin_display.inc on line 1192
+[11-Nov-2012 14:48:24] PHP Fatal error:  Call to a member function summary_title() on a non-object in /home1/aaprpint/public_html/drupal/sites/all/modules/views/plugins/views_plugin_display.inc on line 1192
+[11-Nov-2012 14:49:21] PHP Fatal error:  Call to a member function summary_title() on a non-object in /home1/aaprpint/public_html/drupal/sites/all/modules/views/plugins/views_plugin_display.inc on line 1192
+[11-Nov-2012 14:50:04] PHP Fatal error:  Call to a member function summary_title() on a non-object in /home1/aaprpint/public_html/drupal/sites/all/modules/views/plugins/views_plugin_display.inc on line 1192
+[11-Nov-2012 15:21:39] PHP Fatal error:  Call to a member function summary_title() on a non-object in /home1/aaprpint/public_html/drupal/sites/all/modules/views/plugins/views_plugin_display.inc on line 1192
+[11-Nov-2012 15:21:40] PHP Fatal error:  Call to a member function summary_title() on a non-object in /home1/aaprpint/public_html/drupal/sites/all/modules/views/plugins/views_plugin_display.inc on line 1192
+[11-Nov-2012 15:21:49] PHP Fatal error:  Call to a member function summary_title() on a non-object in /home1/aaprpint/public_html/drupal/sites/all/modules/views/plugins/views_plugin_display.inc on line 1192
+[11-Nov-2012 15:21:51] PHP Fatal error:  Call to a member function summary_title() on a non-object in /home1/aaprpint/public_html/drupal/sites/all/modules/views/plugins/views_plugin_display.inc on line 1192
+[11-Nov-2012 15:21:51] PHP Fatal error:  Call to a member function summary_title() on a non-object in /home1/aaprpint/public_html/drupal/sites/all/modules/views/plugins/views_plugin_display.inc on line 1192
+[11-Nov-2012 15:21:59] PHP Fatal error:  Call to a member function summary_title() on a non-object in /home1/aaprpint/public_html/drupal/sites/all/modules/views/plugins/views_plugin_display.inc on line 1192
+[11-Nov-2012 15:21:59] PHP Fatal error:  Call to a member function summary_title() on a non-object in /home1/aaprpint/public_html/drupal/sites/all/modules/views/plugins/views_plugin_display.inc on line 1192
+[11-Nov-2012 15:21:59] PHP Fatal error:  Call to a member function summary_title() on a non-object in /home1/aaprpint/public_html/drupal/sites/all/modules/views/plugins/views_plugin_display.inc on line 1192
+[11-Nov-2012 14:24:43] PHP Fatal error:  Call to a member function summary_title() on a non-object in /home1/aaprpint/public_html/drupal/sites/all/modules/views/plugins/views_plugin_display.inc on line 1192
+[11-Nov-2012 14:24:45] PHP Fatal error:  Call to a member function summary_title() on a non-object in /home1/aaprpint/public_html/drupal/sites/all/modules/views/plugins/views_plugin_display.inc on line 1192
+[09-Feb-2013 14:36:39] PHP Fatal error:  Class 'SearchQuery' not found in /home1/aaprpint/public_html/drupal/sites/all/modules/views/modules/search/views_handler_filter_search.inc on line 181
+[23-Feb-2013 18:52:07] PHP Fatal error:  Call to undefined function  file_type_save() in /home1/aaprpint/public_html/drupal/sites/all/modules/media_youtube/media_youtube.install on line 172
+[23-Feb-2013 18:58:18] PHP Fatal error:  Call to undefined function  file_type_save() in /home1/aaprpint/public_html/drupal/sites/all/modules/media_youtube/media_youtube.install on line 172
+[23-Feb-2013 19:02:23] PHP Fatal error:  Call to undefined function  file_type_save() in /home1/aaprpint/public_html/drupal/sites/all/modules/media_youtube/media_youtube.install on line 172
+[23-Feb-2013 19:05:29] PHP Fatal error:  Call to undefined function  file_type_save() in /home1/aaprpint/public_html/drupal/sites/all/modules/media_youtube/media_youtube.install on line 172
+[23-Feb-2013 19:11:42] PHP Fatal error:  Call to undefined function  file_type_save() in /home1/aaprpint/public_html/drupal/sites/all/modules/media_youtube/media_youtube.install on line 172
+[23-Mar-2013 11:32:13] PHP Fatal error:  Call to undefined function  load_subtheme_media_queries() in /home1/aaprpint/public_html/drupal/sites/all/themes/pixture_reloaded/template.php on line 18
+[23-Mar-2013 11:32:21] PHP Fatal error:  Call to undefined function  load_subtheme_media_queries() in /home1/aaprpint/public_html/drupal/sites/all/themes/pixture_reloaded/template.php on line 18
+[23-Mar-2013 12:32:31] PHP Fatal error:  Call to undefined function  load_subtheme_media_queries() in /home1/aaprpint/public_html/drupal/sites/all/themes/pixture_reloaded/template.php on line 18
+[23-Mar-2013 11:32:39] PHP Fatal error:  Call to undefined function  load_subtheme_media_queries() in /home1/aaprpint/public_html/drupal/sites/all/themes/pixture_reloaded/template.php on line 18
+[23-Mar-2013 12:32:40] PHP Fatal error:  Call to undefined function  load_subtheme_media_queries() in /home1/aaprpint/public_html/drupal/sites/all/themes/pixture_reloaded/template.php on line 18
+[23-Mar-2013 11:32:53] PHP Fatal error:  Call to undefined function  load_subtheme_media_queries() in /home1/aaprpint/public_html/drupal/sites/all/themes/pixture_reloaded/template.php on line 18
+[23-Mar-2013 12:39:45] PHP Fatal error:  Call to undefined function  load_subtheme_media_queries() in /home1/aaprpint/public_html/drupal/sites/all/themes/pixture_reloaded/template.php on line 18
+[23-Mar-2013 12:41:17] PHP Fatal error:  Call to undefined function  load_subtheme_media_queries() in /home1/aaprpint/public_html/drupal/sites/all/themes/pixture_reloaded/template.php on line 18
+[23-Mar-2013 12:41:23] PHP Fatal error:  Call to undefined function  load_subtheme_media_queries() in /home1/aaprpint/public_html/drupal/sites/all/themes/pixture_reloaded/template.php on line 18
+[23-Mar-2013 11:41:31] PHP Fatal error:  Call to undefined function  load_subtheme_media_queries() in /home1/aaprpint/public_html/drupal/sites/all/themes/pixture_reloaded/template.php on line 18
+[23-Mar-2013 12:41:35] PHP Fatal error:  Call to undefined function  load_subtheme_media_queries() in /home1/aaprpint/public_html/drupal/sites/all/themes/pixture_reloaded/template.php on line 18
+[23-Mar-2013 11:42:03] PHP Fatal error:  Call to undefined function  load_subtheme_media_queries() in /home1/aaprpint/public_html/drupal/sites/all/themes/pixture_reloaded/template.php on line 18
+[23-Mar-2013 11:42:38] PHP Fatal error:  Call to undefined function  load_subtheme_media_queries() in /home1/aaprpint/public_html/drupal/sites/all/themes/pixture_reloaded/template.php on line 18
+[23-Mar-2013 12:45:16] PHP Fatal error:  Call to undefined function  load_subtheme_media_queries() in /home1/aaprpint/public_html/drupal/sites/all/themes/pixture_reloaded/template.php on line 18
+[23-Mar-2013 11:46:15] PHP Fatal error:  Call to undefined function  load_subtheme_media_queries() in /home1/aaprpint/public_html/drupal/sites/all/themes/pixture_reloaded/template.php on line 18
+[22-Apr-2014 17:28:51 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home1/aaprpint/public_html/drupal/includes/database/database.inc:2168
+Stack trace:
+#0 /home1/aaprpint/public_html/drupal/includes/database/database.inc(2168): PDOStatement->execute(Array)
+#1 /home1/aaprpint/public_html/drupal/includes/database/database.inc(680): DatabaseStatementBase->execute(Array, Array)
+#2 /home1/aaprpint/public_html/drupal/includes/database/database.inc(2347): DatabaseConnection->query('SELECT expire, ...', Array, Array)
+#3 /home1/aaprpint/public_html/drupal/includes/lock.inc(167): db_query('SELECT expire, ...', Array)
+#4 /home1/aaprpint/public_html/drupal/includes/lock.inc(146): lock_may_be_available('theme_registry:...')
+#5 /home1/aaprpint/public_html/drupal/includes/theme.inc(449): lock_acquire('theme_registry:...')
+#6 /home1/aaprpint/public_html/drupal/includes/bootstrap.inc(446): ThemeRegistry->set(Array)
+#7 [internal function]: DrupalCacheArray->__destruct()
+#8 {main} in /home1/aaprpint/public_html/drupal/includes/database/database.inc on line 2168

@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Ancestors feature.
+ */
+
+include_once 'ancestors.features.inc';
